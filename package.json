@@ -1,0 +1,26 @@
+{
+  "name": "yasks",
+  "version": "0.0.0",
+  "description": "Integration of inquirer with yargs",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "yargs": "^7.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "prompt",
+    "yargs",
+    "inquirer"
+  ],
+  "author": "Alexis Henaut",
+  "license": "MIT"
+}
